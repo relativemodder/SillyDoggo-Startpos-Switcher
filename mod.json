@@ -1,11 +1,9 @@
 {
-	"geode": "2.0.0-beta.26",
-	"version": "v1.1.4",
+	"geode": "3.0.0-beta.1",
+	"version": "v1.1.5",
 	"gd": {
 		"win": "2.204",
-		"android": "*",
-		"mac": "2.200",
-		"ios": "2.205"
+		"android": "*"
 	},
 	"id": "TheSillyDoggo.StartposSwitcher",
 	"name": "Startpos Switcher",
